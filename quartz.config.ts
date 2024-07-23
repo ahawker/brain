@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "brain.hawker.io",
+    baseUrl: "ahawker.github.io/brain",
     ignorePatterns: ["private", "templates", ".obsidian", ".git"],
     defaultDateType: "created",
     theme: {
