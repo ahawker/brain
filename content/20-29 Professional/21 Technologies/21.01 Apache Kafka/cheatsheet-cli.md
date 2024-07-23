@@ -2,10 +2,8 @@
 title: Kafka CLI Cheatsheet
 date: 2024-07-22
 area: professional
+category: Apache Kafka
 ---
-
-# Kafka CLI Cheatsheet
-
 This how-to document is a quick cheatsheet for interacting/managing Kafka via the standard CLI tools.
 
 > [!info]
@@ -164,9 +162,8 @@ kafka-consumer-groups \
 ```
 ### Partitions
 #### Rebalance Partitions
-```gist
-a27958f9439d3b7e99ef99b5cf3ecc0e
-```
+Check out the [[cheatsheet-rebalance-partitions|Rebalance Partitions]] cheatsheet for more details.
+
 ### Producers
 #### Produce (Values Only)
 ```bash
