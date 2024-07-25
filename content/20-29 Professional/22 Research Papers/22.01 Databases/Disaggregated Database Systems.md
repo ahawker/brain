@@ -1,1 +1,0 @@
-![[SIGMOD23_Tutorial_DisaggregatedDB.pdf]]
